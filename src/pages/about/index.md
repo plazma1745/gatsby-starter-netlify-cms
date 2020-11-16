@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
 path: /about
-title: About our values
+title: О наших
 ---
 ![logo](/img/share_1639384360.jpg "Логотип")
 
