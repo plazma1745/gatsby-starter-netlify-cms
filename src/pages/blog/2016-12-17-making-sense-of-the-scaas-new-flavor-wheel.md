@@ -1,33 +1,33 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: "Как работает плазменная резка: технология, возможности, преимущества"
+date: 2020-11-16T09:22:34.080Z
+description: >-
+  Сегодня многие интересуются, как работает плазменная резка, в чем отличие
+  технологии от традиционных методов обработки металла и других материалов.
+  Простые обыватели и даже некоторые специалисты сомневаются в необходимости
+  использования плазмы, считая, что любые сварочные работы по-прежнему можно
+  выполнять с помощью традиционного газа.
+
+
+  В данном материале мы постараемся доступным языком объяснить, что такое плазморез, как он работает, в чем его преимущества перед лазером и газовой сваркой. После этого у вас вряд ли останутся сомнения в эффективности резки металла с помощью плазмы
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/index.jpg
 tags:
-  - flavor
-  - tasting
+  - плазменная резка
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![плазменная резка](/img/index.jpg "плазменная резка")
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+## Плазменная резка – что это такое
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Резка металла представляет собой технологический процесс разделения монолитного элемента на части. Для этого могут использоваться механический способ, то есть рубка или распиливание, гидроабразивный, где обработка производится за счет суспензии из воды и абразива, а также термический способ или нагрев. Под термической обработкой понимается газокислородная, лазерная и плазменная резка металла.
 
-## What the updates mean to you
+Что такое плазменная резка? Это технология обработки изделий из металла, при которой роль резака играет струя плазмы.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+Плазма – это поток ионизированного газа, нагретого до температуры в несколько тысяч градусов. В таком потоке присутствуют отрицательно и положительно заряженные частицы. Ему присущи квазинейтральные свойства, то есть в бесконечно малом объеме суммарный заряд уравновешивается и оказывается равен нулю. Однако за счет наличия свободных радикалов плазма способна проводить электричество.
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+Благодаря сочетанию таких свойств плазмы, как высокая температура, способность проводить электричество и скорость потока, превышающая скорость звука, в XX веке удалось разработать устройство для плазменной резки.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+Если говорить проще о том, как работает плазменная резка, то речь идет о нагреве металла струей плазмы при помощи плазмореза. Этот аппарат создает между соплом резака и обрабатываемым металлом электродугу, температура которой доходит до +5 000 °С. Однако эффективная обработка при таком нагреве невозможна. Чтобы добиться результата высокого качества, в рабочую зону дополнительно подается газ – именно он формирует плазму температурой до +30 000 °С.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Помимо того, что плазма очень горячая, она выходит из сопла со скоростью 1 500 м/с, за счет чего удается без труда резать металл. Стоит отметить, что подобная обработка отличается высокой точностью и аккуратностью, поэтому современная промышленность все чаще отдает ей предпочтение.
