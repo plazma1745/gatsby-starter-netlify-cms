@@ -1,36 +1,27 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Вибропресс Урал М-7
+image: /img/img_20200626_154225.jpg
+heading: В НАЛИЧИИ НА СКЛАДЕ!
+subheading: Стоимость от 2300000 млн. руб !
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Почему вибропресс Урал М-7 ?
+  description: |
+    За один цикл формования способен производить 
+    2 дорожных бордюра размерами (1000*180*300мм),
+    или 6 поребриков 1000*80*200мм, 
+    или 7 стеновых камней стандартного размера 390*190*188 мм.
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+    - image: /img/2020-05-19-12-38-56_1589906905.jpg
+      text: Тротуарные и дорожные бордюры
+    - image: /img/2020-05-19-12-50-59.jpg
+      text: |
+        Тротуарная плитка
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
@@ -45,7 +36,7 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: Вибропресс Урал М-7 может производить
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
