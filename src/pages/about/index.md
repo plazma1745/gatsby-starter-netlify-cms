@@ -1,9 +1,9 @@
 ---
 templateKey: about-page
 path: /about
-title: О наших
+title: О наc
 ---
-![logo](/img/share_1639384360.jpg "Логотип")
+![logo]( "Логотип")
 
 ### Single origin
 
